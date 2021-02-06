@@ -1,0 +1,1200 @@
+{
+    "instruments": [
+        {
+            "symbol": "005930.KS",
+            "canonical_name": "SamsungElec"
+        },
+        {
+            "symbol": "000660.KS",
+            "canonical_name": "SKHynix"
+        },
+        {
+            "symbol": "066570.KS",
+            "canonical_name": "LGElectronics"
+        },
+        {
+            "symbol": "005380.KS",
+            "canonical_name": "HyundaiMotorCompany"
+        },
+        {
+            "symbol": "105560.KS",
+            "canonical_name": "KBFinancialGroup"
+        },
+        {
+            "symbol": "003490.KS",
+            "canonical_name": "KoreanAir"
+        },
+        {
+            "symbol": "035420.KS",
+            "canonical_name": "NAVER"
+        },
+        {
+            "symbol": "035720.KS",
+            "canonical_name": "Kakao"
+        },
+        {
+            "symbol": "051910.KS",
+            "canonical_name": "LGChem"
+        },
+        {
+            "symbol": "207940.KS",
+            "canonical_name": "SamsungBiologics"
+        },
+        {
+            "symbol": "068270.KS",
+            "canonical_name": "Celltrion"
+        },
+        {
+            "symbol": "006400.KS",
+            "canonical_name": "SamsungSDI"
+        },
+        {
+            "symbol": "000270.KS",
+            "canonical_name": "KiaMotors"
+        },
+        {
+            "symbol": "012330.KS",
+            "canonical_name": "HyundaiMobis"
+        },
+        {
+            "symbol": "005490.KS",
+            "canonical_name": "Posco"
+        },
+        {
+            "symbol": "017670.KS",
+            "canonical_name": "SKTelecom"
+        },
+        {
+            "symbol": "036570.KS",
+            "canonical_name": "NCSoft"
+        },
+        {
+            "symbol": "105560.KS",
+            "canonical_name": "KBFinancial"
+        },
+        {
+            "symbol": "015760.KS",
+            "canonical_name": "KoreaElectronic"
+        },
+        {
+            "symbol": "055550.KS",
+            "canonical_name": "ShinhanFinancial"
+        },
+        {
+            "symbol": "096770.KS",
+            "canonical_name": "SKInnovation"
+        },
+        {
+            "symbol": "326030.KS",
+            "canonical_name": "SKBio"
+        },
+        {
+            "symbol": "090430.KS",
+            "canonical_name": "Amorepacific"
+        },
+        {
+            "symbol": "028260.KS",
+            "canonical_name": "\uc0bc\uc131\ubb3c\uc0b0"
+        },
+        {
+            "symbol": "051900.KS",
+            "canonical_name": "LG\uc0dd\ud65c\uac74\uac15"
+        },
+        {
+            "symbol": "034730.KS",
+            "canonical_name": "SK"
+        },
+        {
+            "symbol": "003550.KS",
+            "canonical_name": "LG"
+        },
+        {
+            "symbol": "018260.KS",
+            "canonical_name": "\uc0bc\uc131\uc5d0\uc2a4\ub514\uc5d0\uc2a4"
+        },
+        {
+            "symbol": "009150.KS",
+            "canonical_name": "\uc0bc\uc131\uc804\uae30"
+        },
+        {
+            "symbol": "032830.KS",
+            "canonical_name": "\uc0bc\uc131\uc0dd\uba85"
+        },
+        {
+            "symbol": "251270.KS",
+            "canonical_name": "\ub137\ub9c8\ube14"
+        },
+        {
+            "symbol": "033780.KS",
+            "canonical_name": "KT&G"
+        },
+        {
+            "symbol": "086790.KS",
+            "canonical_name": "\ud558\ub098\uae08\uc735\uc9c0\uc8fc"
+        },
+        {
+            "symbol": "011170.KS",
+            "canonical_name": "\ub86f\ub370\ucf00\ubbf8\uce7c"
+        },
+        {
+            "symbol": "018880.KS",
+            "canonical_name": "\ud55c\uc628\uc2dc\uc2a4\ud15c"
+        },
+        {
+            "symbol": "009830.KS",
+            "canonical_name": "\ud55c\ud654\uc194\ub8e8\uc158"
+        },
+        {
+            "symbol": "003670.KS",
+            "canonical_name": "\ud3ec\uc2a4\ucf54\ucf00\ubbf8\uce7c"
+        },
+        {
+            "symbol": "000810.KS",
+            "canonical_name": "\uc0bc\uc131\ud654\uc7ac"
+        },
+        {
+            "symbol": "034220.KS",
+            "canonical_name": "LG\ub514\uc2a4\ud50c\ub808\uc774"
+        },
+        {
+            "symbol": "010950.KS",
+            "canonical_name": "S-Oil"
+        },
+        {
+            "symbol": "086280.KS",
+            "canonical_name": "\ud604\ub300\uae00\ub85c\ube44\uc2a4"
+        },
+        {
+            "symbol": "010130.KS",
+            "canonical_name": "\uace0\ub824\uc544\uc5f0"
+        },
+        {
+            "symbol": "352820.KS",
+            "canonical_name": "\ube45\ud788\ud2b8"
+        },
+        {
+            "symbol": "009540.KS",
+            "canonical_name": "\ud55c\uad6d\uc870\uc120\ud574\uc591"
+        },
+        {
+            "symbol": "097950.KS",
+            "canonical_name": "CJ\uc81c\uc77c\uc81c\ub2f9"
+        },
+        {
+            "symbol": "011780.KS",
+            "canonical_name": "\uae08\ud638\uc11d\uc720"
+        },
+        {
+            "symbol": "316140.KS",
+            "canonical_name": "\uc6b0\ub9ac\uae08\uc735\uc9c0\uc8fc"
+        },
+        {
+            "symbol": "006800.KS",
+            "canonical_name": "\ubbf8\ub798\uc5d0\uc14b\ub300\uc6b0"
+        },
+        {
+            "symbol": "030200.KS",
+            "canonical_name": "KT"
+        },
+        {
+            "symbol": "024110.KS",
+            "canonical_name": "\uae30\uc5c5\uc740\ud589"
+        },
+        {
+            "symbol": "161390.KS",
+            "canonical_name": "\ud55c\uad6d\ud0c0\uc774\uc5b4\uc564\ud14c\ud06c\ub180\ub85c\uc9c0"
+        },
+        {
+            "symbol": "006280.KS",
+            "canonical_name": "\ub179\uc2ed\uc790"
+        },
+        {
+            "symbol": "004020.KS",
+            "canonical_name": "\ud604\ub300\uc81c\ucca0"
+        },
+        {
+            "symbol": "008930.KS",
+            "canonical_name": "\ud55c\ubbf8\uc0ac\uc774\uc5b8\uc2a4"
+        },
+        {
+            "symbol": "032640.KS",
+            "canonical_name": "LG\uc720\ud50c\ub7ec\uc2a4"
+        },
+        {
+            "symbol": "021240.KS",
+            "canonical_name": "\ucf54\uc6e8\uc774"
+        },
+        {
+            "symbol": "035250.KS",
+            "canonical_name": "\uac15\uc6d0\ub79c\ub4dc"
+        },
+        {
+            "symbol": "011070.KS",
+            "canonical_name": "LG\uc774\ub178\ud14d"
+        },
+        {
+            "symbol": "002790.KS",
+            "canonical_name": "\uc544\ubaa8\ub808G"
+        },
+        {
+            "symbol": "071050.KS",
+            "canonical_name": "\ud55c\uad6d\uae08\uc735\uc9c0\uc8fc"
+        },
+        {
+            "symbol": "000100.KS",
+            "canonical_name": "\uc720\ud55c\uc591\ud589"
+        },
+        {
+            "symbol": "034020.KS",
+            "canonical_name": "\ub450\uc0b0\uc911\uacf5\uc5c5"
+        },
+        {
+            "symbol": "128940.KS",
+            "canonical_name": "\ud55c\ubbf8\uc57d\ud488"
+        },
+        {
+            "symbol": "271560.KS",
+            "canonical_name": "\uc624\ub9ac\uc628"
+        },
+        {
+            "symbol": "285130.KS",
+            "canonical_name": "SK\ucf00\ubbf8\uce7c"
+        },
+        {
+            "symbol": "011790.KS",
+            "canonical_name": "SKC"
+        },
+        {
+            "symbol": "000720.KS",
+            "canonical_name": "\ud604\ub300\uac74\uc124"
+        },
+        {
+            "symbol": "139480.KS",
+            "canonical_name": "\uc774\ub9c8\ud2b8"
+        },
+        {
+            "symbol": "019170.KS",
+            "canonical_name": "\uc2e0\ud48d\uc81c\uc57d"
+        },
+        {
+            "symbol": "011200.KS",
+            "canonical_name": "HMM"
+        },
+        {
+            "symbol": "010140.KS",
+            "canonical_name": "\uc0bc\uc131\uc911\uacf5\uc5c5"
+        },
+        {
+            "symbol": "180640.KS",
+            "canonical_name": "\ud55c\uc9c4\uce7c"
+        },
+        {
+            "symbol": "267250.KS",
+            "canonical_name": "\ud604\ub300\uc911\uacf5\uc5c5\uc9c0\uc8fc"
+        },
+        {
+            "symbol": "336260.KS",
+            "canonical_name": "\ub450\uc0b0\ud4e8\uc5bc\uc140"
+        },
+        {
+            "symbol": "000120.KS",
+            "canonical_name": "CJ\ub300\ud55c\ud1b5\uc6b4"
+        },
+        {
+            "symbol": "039490.KS",
+            "canonical_name": "\ud0a4\uc6c0\uc99d\uad8c"
+        },
+        {
+            "symbol": "029780.KS",
+            "canonical_name": "\uc0bc\uc131\uce74\ub4dc"
+        },
+        {
+            "symbol": "004990.KS",
+            "canonical_name": "\ub86f\ub370\uc9c0\uc8fc"
+        },
+        {
+            "symbol": "016360.KS",
+            "canonical_name": "\uc0bc\uc131\uc99d\uad8c"
+        },
+        {
+            "symbol": "204320.KS",
+            "canonical_name": "\ub9cc\ub3c4"
+        },
+        {
+            "symbol": "078930.KS",
+            "canonical_name": "GS"
+        },
+        {
+            "symbol": "241560.KS",
+            "canonical_name": "\ub450\uc0b0\ubc25\ucea3"
+        },
+        {
+            "symbol": "003410.KS",
+            "canonical_name": "\uc30d\uc6a9\uc591\ud68c"
+        },
+        {
+            "symbol": "006360.KS",
+            "canonical_name": "GS\uac74\uc124"
+        },
+        {
+            "symbol": "008770.KS",
+            "canonical_name": "\ud638\ud154\uc2e0\ub77c"
+        },
+        {
+            "symbol": "005940.KS",
+            "canonical_name": "NH\ud22c\uc790\uc99d\uad8c"
+        },
+        {
+            "symbol": "012750.KS",
+            "canonical_name": "\uc5d0\uc2a4\uc6d0"
+        },
+        {
+            "symbol": "023530.KS",
+            "canonical_name": "\ub86f\ub370\uc1fc\ud551"
+        },
+        {
+            "symbol": "047810.KS",
+            "canonical_name": "\ud55c\uad6d\ud56d\uacf5\uc6b0\uc8fc"
+        },
+        {
+            "symbol": "036460.KS",
+            "canonical_name": "\ud55c\uad6d\uac00\uc2a4\uacf5\uc0ac"
+        },
+        {
+            "symbol": "020150.KS",
+            "canonical_name": "\uc77c\uc9c4\uba38\ud2f0\ub9ac\uc5bc\uc988"
+        },
+        {
+            "symbol": "001040.KS",
+            "canonical_name": "CJ"
+        },
+        {
+            "symbol": "026960.KS",
+            "canonical_name": "\ub3d9\uc11c"
+        },
+        {
+            "symbol": "003090.KS",
+            "canonical_name": "\ub300\uc6c5"
+        },
+        {
+            "symbol": "000990.KS",
+            "canonical_name": "DB\ud558\uc774\ud14d"
+        },
+        {
+            "symbol": "112610.KS",
+            "canonical_name": "\uc528\uc5d0\uc2a4\uc708\ub4dc"
+        },
+        {
+            "symbol": "042660.KS",
+            "canonical_name": "\ub300\uc6b0\uc870\uc120\ud574\uc591"
+        },
+        {
+            "symbol": "081660.KS",
+            "canonical_name": "\ud720\ub77c\ud640\ub529\uc2a4"
+        },
+        {
+            "symbol": "007070.KS",
+            "canonical_name": "GS\ub9ac\ud14c\uc77c"
+        },
+        {
+            "symbol": "005830.KS",
+            "canonical_name": "DB\uc190\ud574\ubcf4\ud5d8"
+        },
+        {
+            "symbol": "282330.KS",
+            "canonical_name": "BGF\ub9ac\ud14c\uc77c"
+        },
+        {
+            "symbol": "000880.KS",
+            "canonical_name": "\ud55c\ud654"
+        },
+        {
+            "symbol": "028670.KS",
+            "canonical_name": "\ud32c\uc624\uc158"
+        },
+        {
+            "symbol": "028050.KS",
+            "canonical_name": "\uc0bc\uc131\uc5d4\uc9c0\ub2c8\uc5b4\ub9c1"
+        },
+        {
+            "symbol": "011210.KS",
+            "canonical_name": "\ud604\ub300\uc704\uc544"
+        },
+        {
+            "symbol": "047040.KS",
+            "canonical_name": "\ub300\uc6b0\uac74\uc124"
+        },
+        {
+            "symbol": "088350.KS",
+            "canonical_name": "\ud55c\ud654\uc0dd\uba85"
+        },
+        {
+            "symbol": "010060.KS",
+            "canonical_name": "OCI"
+        },
+        {
+            "symbol": "008560.KS",
+            "canonical_name": "\uba54\ub9ac\uce20\uc99d\uad8c"
+        },
+        {
+            "symbol": "004170.KS",
+            "canonical_name": "\uc2e0\uc138\uacc4"
+        },
+        {
+            "symbol": "185750.KS",
+            "canonical_name": "\uc885\uadfc\ub2f9"
+        },
+        {
+            "symbol": "000080.KS",
+            "canonical_name": "\ud558\uc774\ud2b8\uc9c4\ub85c"
+        },
+        {
+            "symbol": "014680.KS",
+            "canonical_name": "\ud55c\uc194\ucf00\ubbf8\uce7c"
+        },
+        {
+            "symbol": "030000.KS",
+            "canonical_name": "\uc81c\uc77c\uae30\ud68d"
+        },
+        {
+            "symbol": "009240.KS",
+            "canonical_name": "\ud55c\uc0d8"
+        },
+        {
+            "symbol": "005250.KS",
+            "canonical_name": "\ub179\uc2ed\uc790\ud640\ub529\uc2a4"
+        },
+        {
+            "symbol": "375500.KS",
+            "canonical_name": "DL\uc774\uc564\uc528"
+        },
+        {
+            "symbol": "006260.KS",
+            "canonical_name": "LS"
+        },
+        {
+            "symbol": "064350.KS",
+            "canonical_name": "\ud604\ub300\ub85c\ud15c"
+        },
+        {
+            "symbol": "012450.KS",
+            "canonical_name": "\ud55c\ud654\uc5d0\uc5b4\ub85c\uc2a4\ud398\uc774\uc2a4"
+        },
+        {
+            "symbol": "007310.KS",
+            "canonical_name": "\uc624\ub69c\uae30"
+        },
+        {
+            "symbol": "010120.KS",
+            "canonical_name": "LS ELECTRIC"
+        },
+        {
+            "symbol": "047050.KS",
+            "canonical_name": "\ud3ec\uc2a4\ucf54\uc778\ud130\ub0b4\uc154\ub110"
+        },
+        {
+            "symbol": "272210.KS",
+            "canonical_name": "\ud55c\ud654\uc2dc\uc2a4\ud15c"
+        },
+        {
+            "symbol": "294870.KS",
+            "canonical_name": "HDC\ud604\ub300\uc0b0\uc5c5\uac1c\ubc1c"
+        },
+        {
+            "symbol": "069960.KS",
+            "canonical_name": "\ud604\ub300\ubc31\ud654\uc810"
+        },
+        {
+            "symbol": "069620.KS",
+            "canonical_name": "\ub300\uc6c5\uc81c\uc57d"
+        },
+        {
+            "symbol": "002380.KS",
+            "canonical_name": "KCC"
+        },
+        {
+            "symbol": "006650.KS",
+            "canonical_name": "\ub300\ud55c\uc720\ud654"
+        },
+        {
+            "symbol": "010620.KS",
+            "canonical_name": "\ud604\ub300\ubbf8\ud3ec\uc870\uc120"
+        },
+        {
+            "symbol": "042670.KS",
+            "canonical_name": "\ub450\uc0b0\uc778\ud504\ub77c\ucf54\uc5b4"
+        },
+        {
+            "symbol": "138930.KS",
+            "canonical_name": "BNK\uae08\uc735\uc9c0\uc8fc"
+        },
+        {
+            "symbol": "001450.KS",
+            "canonical_name": "\ud604\ub300\ud574\uc0c1"
+        },
+        {
+            "symbol": "017800.KS",
+            "canonical_name": "\ud604\ub300\uc5d8\ub9ac\ubca0\uc774"
+        },
+        {
+            "symbol": "004490.KS",
+            "canonical_name": "\uc138\ubc29\uc804\uc9c0"
+        },
+        {
+            "symbol": "004370.KS",
+            "canonical_name": "\ub18d\uc2ec"
+        },
+        {
+            "symbol": "009420.KS",
+            "canonical_name": "\ud55c\uc62c\ubc14\uc774\uc624\ud30c\ub9c8"
+        },
+        {
+            "symbol": "010780.KS",
+            "canonical_name": "\uc544\uc774\uc5d0\uc2a4\ub3d9\uc11c"
+        },
+        {
+            "symbol": "004800.KS",
+            "canonical_name": "\ud6a8\uc131"
+        },
+        {
+            "symbol": "111770.KS",
+            "canonical_name": "\uc601\uc6d0\ubb34\uc5ed"
+        },
+        {
+            "symbol": "000240.KS",
+            "canonical_name": "\ud55c\uad6d\uc564\ucef4\ud37c\ub2c8"
+        },
+        {
+            "symbol": "007700.KS",
+            "canonical_name": "F&F"
+        },
+        {
+            "symbol": "003000.KS",
+            "canonical_name": "\ubd80\uad11\uc57d\ud488"
+        },
+        {
+            "symbol": "013890.KS",
+            "canonical_name": "\uc9c0\ub204\uc2a4"
+        },
+        {
+            "symbol": "004000.KS",
+            "canonical_name": "\ub86f\ub370\uc815\ubc00\ud654\ud559"
+        },
+        {
+            "symbol": "001740.KS",
+            "canonical_name": "SK\ub124\ud2b8\uc6cd\uc2a4"
+        },
+        {
+            "symbol": "031430.KS",
+            "canonical_name": "\uc2e0\uc138\uacc4\uc778\ud130\ub0b4\uc154\ub0a0"
+        },
+        {
+            "symbol": "003520.KS",
+            "canonical_name": "\uc601\uc9c4\uc57d\ud488"
+        },
+        {
+            "symbol": "014820.KS",
+            "canonical_name": "\ub3d9\uc6d0\uc2dc\uc2a4\ud15c\uc988"
+        },
+        {
+            "symbol": "006120.KS",
+            "canonical_name": "SK\ub514\uc2a4\ucee4\ubc84\ub9ac"
+        },
+        {
+            "symbol": "161890.KS",
+            "canonical_name": "\ud55c\uad6d\ucf5c\ub9c8"
+        },
+        {
+            "symbol": "214320.KS",
+            "canonical_name": "\uc774\ub178\uc158"
+        },
+        {
+            "symbol": "051600.KS",
+            "canonical_name": "\ud55c\uc804KPS"
+        },
+        {
+            "symbol": "073240.KS",
+            "canonical_name": "\uae08\ud638\ud0c0\uc774\uc5b4"
+        },
+        {
+            "symbol": "120110.KS",
+            "canonical_name": "\ucf54\uc624\ub871\uc778\ub354"
+        },
+        {
+            "symbol": "192080.KS",
+            "canonical_name": "\ub354\ube14\uc720\uac8c\uc784\uc988"
+        },
+        {
+            "symbol": "093370.KS",
+            "canonical_name": "\ud6c4\uc131"
+        },
+        {
+            "symbol": "020560.KS",
+            "canonical_name": "\uc544\uc2dc\uc544\ub098\ud56d\uacf5"
+        },
+        {
+            "symbol": "005300.KS",
+            "canonical_name": "\ub86f\ub370\uce60\uc131"
+        },
+        {
+            "symbol": "016380.KS",
+            "canonical_name": "KG\ub3d9\ubd80\uc81c\ucca0"
+        },
+        {
+            "symbol": "032350.KS",
+            "canonical_name": "\ub86f\ub370\uad00\uad11\uac1c\ubc1c"
+        },
+        {
+            "symbol": "192820.KS",
+            "canonical_name": "\ucf54\uc2a4\ub9e5\uc2a4"
+        },
+        {
+            "symbol": "064960.KS",
+            "canonical_name": "S&T\ubaa8\ud2f0\ube0c"
+        },
+        {
+            "symbol": "003850.KS",
+            "canonical_name": "\ubcf4\ub839\uc81c\uc57d"
+        },
+        {
+            "symbol": "001120.KS",
+            "canonical_name": "LG\uc0c1\uc0ac"
+        },
+        {
+            "symbol": "000210.KS",
+            "canonical_name": "DL"
+        },
+        {
+            "symbol": "079160.KS",
+            "canonical_name": "CJ CGV"
+        },
+        {
+            "symbol": "057050.KS",
+            "canonical_name": "\ud604\ub300\ud648\uc1fc\ud551"
+        },
+        {
+            "symbol": "007570.KS",
+            "canonical_name": "\uc77c\uc591\uc57d\ud488"
+        },
+        {
+            "symbol": "114090.KS",
+            "canonical_name": "GKL"
+        },
+        {
+            "symbol": "001680.KS",
+            "canonical_name": "\ub300\uc0c1"
+        },
+        {
+            "symbol": "071840.KS",
+            "canonical_name": "\ub86f\ub370\ud558\uc774\ub9c8\ud2b8"
+        },
+        {
+            "symbol": "000670.KS",
+            "canonical_name": "\uc601\ud48d"
+        },
+        {
+            "symbol": "003240.KS",
+            "canonical_name": "\ud0dc\uad11\uc0b0\uc5c5"
+        },
+        {
+            "symbol": "000150.KS",
+            "canonical_name": "\ub450\uc0b0"
+        },
+        {
+            "symbol": "069260.KS",
+            "canonical_name": "\ud734\ucf10\uc2a4"
+        },
+        {
+            "symbol": "284740.KS",
+            "canonical_name": "\ucfe0\ucfe0\ud648\uc2dc\uc2a4"
+        },
+        {
+            "symbol": "005440.KS",
+            "canonical_name": "\ud604\ub300\uadf8\ub9b0\ud478\ub4dc"
+        },
+        {
+            "symbol": "103140.KS",
+            "canonical_name": "\ud48d\uc0b0"
+        },
+        {
+            "symbol": "000070.KS",
+            "canonical_name": "\uc0bc\uc591\ud640\ub529\uc2a4"
+        },
+        {
+            "symbol": "001800.KS",
+            "canonical_name": "\uc624\ub9ac\uc628\ud640\ub529\uc2a4"
+        },
+        {
+            "symbol": "079550.KS",
+            "canonical_name": "LIG\ub125\uc2a4\uc6d0"
+        },
+        {
+            "symbol": "241590.KS",
+            "canonical_name": "\ud654\uc2b9\uc5d4\ud130\ud504\ub77c\uc774\uc988"
+        },
+        {
+            "symbol": "001230.KS",
+            "canonical_name": "\ub3d9\uad6d\uc81c\uac15"
+        },
+        {
+            "symbol": "020000.KS",
+            "canonical_name": "\ud55c\uc12c"
+        },
+        {
+            "symbol": "108670.KS",
+            "canonical_name": "LG\ud558\uc6b0\uc2dc\uc2a4"
+        },
+        {
+            "symbol": "003230.KS",
+            "canonical_name": "\uc0bc\uc591\uc2dd\ud488"
+        },
+        {
+            "symbol": "049770.KS",
+            "canonical_name": "\ub3d9\uc6d0F&B"
+        },
+        {
+            "symbol": "012630.KS",
+            "canonical_name": "HDC"
+        },
+        {
+            "symbol": "192400.KS",
+            "canonical_name": "\ucfe0\ucfe0\ud640\ub529\uc2a4"
+        },
+        {
+            "symbol": "001060.KS",
+            "canonical_name": "JW\uc911\uc678\uc81c\uc57d"
+        },
+        {
+            "symbol": "018250.KS",
+            "canonical_name": "\uc560\uacbd\uc0b0\uc5c5"
+        },
+        {
+            "symbol": "145990.KS",
+            "canonical_name": "\uc0bc\uc591\uc0ac"
+        },
+        {
+            "symbol": "052690.KS",
+            "canonical_name": "\ud55c\uc804\uae30\uc220"
+        },
+        {
+            "symbol": "105630.KS",
+            "canonical_name": "\ud55c\uc138\uc2e4\uc5c5"
+        },
+        {
+            "symbol": "006390.KS",
+            "canonical_name": "\ud55c\uc77c\ud604\ub300\uc2dc\uba58\ud2b8"
+        },
+        {
+            "symbol": "002350.KS",
+            "canonical_name": "\ub125\uc13c\ud0c0\uc774\uc5b4"
+        },
+        {
+            "symbol": "115390.KS",
+            "canonical_name": "\ub77d\uc564\ub77d"
+        },
+        {
+            "symbol": "005610.KS",
+            "canonical_name": "SPC\uc0bc\ub9bd"
+        },
+        {
+            "symbol": "005180.KS",
+            "canonical_name": "\ube59\uadf8\ub808"
+        },
+        {
+            "symbol": "008350.KS",
+            "canonical_name": "\ub0a8\uc120\uc54c\ubbf8\ub284"
+        },
+        {
+            "symbol": "009410.KS",
+            "canonical_name": "\ud0dc\uc601\uac74\uc124"
+        }
+    ],
+    "smin0": [
+        {
+            "symbol": "005930.KS",
+            "canonical_name": "SamsungElec",
+            "bounds": [
+                1,
+                120
+            ],
+            "pos": 0,
+            "order_size": 1,
+            "orders": [],
+            "pnl": 0
+        },
+        {
+            "symbol": "000660.KS",
+            "canonical_name": "SKHynix",
+            "bounds": [
+                1,
+                74
+            ],
+            "pos": 2,
+            "order_size": 1,
+            "orders": [
+                {
+                    "price": 130000,
+                    "qty": 1,
+                    "date": "2021-01-11"
+                },
+                {
+                    "price": 130000,
+                    "qty": 1,
+                    "date": "2021-01-11"
+                }
+            ],
+            "pnl": 0
+        },
+        {
+            "symbol": "066570.KS",
+            "canonical_name": "LGElectronics",
+            "pos": 0,
+            "order_size": 1,
+            "bounds": [
+                1,
+                66
+            ],
+            "orders": [],
+            "pnl": 11500
+        },
+        {
+            "symbol": "005380.KS",
+            "canonical_name": "HyundaiMotorCompany",
+            "bounds": [
+                1,
+                48
+            ],
+            "pos": 1,
+            "order_size": 1,
+            "orders": [
+                {
+                    "price": 251879,
+                    "qty": 1,
+                    "date": "2021-01-11"
+                }
+            ],
+            "pnl": 0
+        },
+        {
+            "symbol": "105560.KS",
+            "canonical_name": "KBFinancialGroup",
+            "pos": 10,
+            "order_size": 1,
+            "orders": [
+                {
+                    "price": 46900,
+                    "qty": 10,
+                    "date": "2021-01-11"
+                }
+            ],
+            "bounds": [
+                1,
+                217
+            ],
+            "pnl": 0
+        },
+        {
+            "symbol": "035420.KS",
+            "canonical_name": "NAVER",
+            "bounds": [
+                1,
+                34
+            ],
+            "pos": 0,
+            "order_size": 1,
+            "orders": [],
+            "pnl": 8000
+        },
+        {
+            "symbol": "035720.KS",
+            "canonical_name": "Kakao",
+            "bounds": [
+                1,
+                24
+            ],
+            "pos": 0,
+            "orders": [],
+            "pnl": 0
+        },
+        {
+            "symbol": "051910.KS",
+            "canonical_name": "LGChem",
+            "bounds": [
+                1,
+                10
+            ],
+            "pos": 0,
+            "order_size": 1,
+            "orders": [],
+            "pnl": 0
+        },
+        {
+            "symbol": "207940.KS",
+            "canonical_name": "SamsungBiologics",
+            "bounds": [
+                1,
+                12
+            ],
+            "pos": 3,
+            "order_size": 1,
+            "orders": [
+                {
+                    "price": 834248,
+                    "qty": 2,
+                    "date": "2021-01-11"
+                },
+                {
+                    "price": 811000,
+                    "qty": 1,
+                    "date": "2021-01-15"
+                }
+            ],
+            "pnl": 0
+        },
+        {
+            "symbol": "068270.KS",
+            "canonical_name": "Celltrion",
+            "bounds": [
+                1,
+                27
+            ],
+            "pos": 0,
+            "order_size": 1,
+            "orders": [],
+            "pnl": 10000
+        },
+        {
+            "symbol": "006400.KS",
+            "canonical_name": "SamsungSDI",
+            "pos": 0,
+            "order_size": 1,
+            "orders": [],
+            "pnl": 20000,
+            "bounds": [
+                1,
+                14
+            ]
+        },
+        {
+            "symbol": "000270.KS",
+            "canonical_name": "KiaMotors",
+            "pos": 0,
+            "order_size": 1,
+            "orders": [],
+            "bounds": [
+                1,
+                158
+            ],
+            "pnl": 7400
+        },
+        {
+            "symbol": "012330.KS",
+            "canonical_name": "HyundaiMobis",
+            "bounds": [
+                1,
+                32
+            ],
+            "pos": 3,
+            "order_size": 1,
+            "orders": [
+                {
+                    "price": 342863,
+                    "qty": 3,
+                    "date": "2021-01-11"
+                }
+            ],
+            "pnl": 0
+        },
+        {
+            "symbol": "005490.KS",
+            "canonical_name": "Posco",
+            "bounds": [
+                1,
+                34
+            ],
+            "pos": 2,
+            "order_size": 1,
+            "orders": [
+                {
+                    "price": 285000,
+                    "qty": 2,
+                    "date": "2021-01-11"
+                }
+            ],
+            "pnl": 0
+        },
+        {
+            "symbol": "017670.KS",
+            "canonical_name": "SKTelecom",
+            "pos": 0,
+            "order_size": 1,
+            "orders": [],
+            "bounds": [
+                1,
+                37
+            ],
+            "pnl": -14000
+        },
+        {
+            "symbol": "036570.KS",
+            "canonical_name": "NCSoft",
+            "pos": 3,
+            "order_size": 1,
+            "orders": [
+                {
+                    "price": 974000,
+                    "qty": 1,
+                    "date": "2021-01-11"
+                },
+                {
+                    "price": 974000,
+                    "qty": 1,
+                    "date": "2021-01-11"
+                },
+                {
+                    "price": 940000,
+                    "qty": 1,
+                    "date": "2021-01-15"
+                }
+            ],
+            "pnl": 12000,
+            "bounds": [
+                1,
+                10
+            ]
+        },
+        {
+            "symbol": "096770.KS",
+            "canonical_name": "SKInnovation",
+            "bounds": [
+                1,
+                38
+            ],
+            "pos": 0,
+            "order_size": 1,
+            "orders": [],
+            "pnl": 3500
+        },
+        {
+            "symbol": "326030.KS",
+            "canonical_name": "SKBio",
+            "order_size": 1,
+            "bounds": [
+                1,
+                63
+            ]
+        }
+    ],
+    "smin1": [
+        {
+            "symbol": "005930.KS",
+            "canonical_name": "SamsungElec",
+            "pos": 0,
+            "order_size": 1,
+            "pnl": 0,
+            "bounds": [
+                1,
+                30
+            ]
+        },
+        {
+            "symbol": "000660.KS",
+            "canonical_name": "SKHynix",
+            "pos": 0,
+            "order_size": 1,
+            "pnl": 0,
+            "bounds": [
+                1,
+                30
+            ]
+        },
+        {
+            "symbol": "035420.KS",
+            "canonical_name": "NAVER",
+            "pos": 0,
+            "order_size": 1,
+            "pnl": 0,
+            "bounds": [
+                1,
+                30
+            ]
+        },
+        {
+            "symbol": "035720.KS",
+            "canonical_name": "Kakao",
+            "pos": 0,
+            "order_size": 1,
+            "pnl": 0,
+            "bounds": [
+                1,
+                30
+            ]
+        },
+        {
+            "symbol": "068270.KS",
+            "canonical_name": "Celltrion",
+            "pos": 0,
+            "order_size": 1,
+            "pnl": 0,
+            "bounds": [
+                1,
+                30
+            ]
+        },
+        {
+            "symbol": "006400.KS",
+            "canonical_name": "SamsungSDI",
+            "pos": 0,
+            "order_size": 1,
+            "pnl": 0,
+            "bounds": [
+                1,
+                30
+            ]
+        },
+        {
+            "symbol": "000270.KS",
+            "canonical_name": "KiaMotors",
+            "pos": 0,
+            "order_size": 1,
+            "pnl": 0,
+            "bounds": [
+                1,
+                30
+            ]
+        },
+        {
+            "symbol": "012330.KS",
+            "canonical_name": "HyundaiMobis",
+            "pos": 0,
+            "order_size": 1,
+            "pnl": 0,
+            "bounds": [
+                1,
+                30
+            ]
+        },
+        {
+            "symbol": "017670.KS",
+            "canonical_name": "SKTelecom",
+            "pos": 0,
+            "order_size": 1,
+            "pnl": 0,
+            "bounds": [
+                1,
+                30
+            ]
+        },
+        {
+            "symbol": "036570.KS",
+            "canonical_name": "NCSoft",
+            "pos": 0,
+            "order_size": 1,
+            "pnl": 0,
+            "bounds": [
+                1,
+                30
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+	"instruments":  "instruments_sp500",
+	"strategy_type": "Salmon",
+	"salmon_signals": 
+	{
+		"f_edge":1.0, 
+		"s_edge":1.0,
+		"c_edge":1.0, 
+		"b_edge":0.3
+	},
+	"bison_signals": 
+	[
+		{
+			"alpha" : "ema_impact",
+			"config": {
+				"lag": 2
+			}
+		},
+		{
+			"alpha" : "ema_impact",
+			"config": {
+				"lag": 5
+			}
+		},
+		{
+			"alpha" : "ema_impact",
+			"config": {
+				"lag": 10
+			}
+		}
+	],
+	"period":1,
+	"daily":false,
+	"sim_type":1,
+	"begin_date": "2010-01-01",
+	"end_date": "2020-12-01",
+	"obj_func": "max_pnl",
+	"strategy": 
+	{
+		"max_pos":10,
+		"order_size":1,
+		"max_loss": 1000000000
+	},
+	"optimizer":
+	{
+		"algorithm": "Stocastic",
+		"config": {
+			"sigma":0.55,
+			"max_loop":50,
+			"pop_size":70,
+			"bison_init_point": 1,
+			"salmon_init_point": 10
+		}
+	},
+	"output_dir" : "SM0_21"
+}

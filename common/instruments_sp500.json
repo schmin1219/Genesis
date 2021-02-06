@@ -1,0 +1,2024 @@
+{
+    "instruments": [
+        {
+            "symbol": "MMM",
+            "canonical_name": "3M Company"
+        },
+        {
+            "symbol": "AOS",
+            "canonical_name": "A.O. Smith Corp"
+        },
+        {
+            "symbol": "ABT",
+            "canonical_name": "Abbott Laboratories"
+        },
+        {
+            "symbol": "ABBV",
+            "canonical_name": "AbbVie Inc."
+        },
+        {
+            "symbol": "ABMD",
+            "canonical_name": "ABIOMED Inc"
+        },
+        {
+            "symbol": "ACN",
+            "canonical_name": "Accenture plc"
+        },
+        {
+            "symbol": "ATVI",
+            "canonical_name": "Activision Blizzard"
+        },
+        {
+            "symbol": "ADBE",
+            "canonical_name": "Adobe Inc."
+        },
+        {
+            "symbol": "AAP",
+            "canonical_name": "Advance Auto Parts"
+        },
+        {
+            "symbol": "AMD",
+            "canonical_name": "Advanced Micro Devices Inc"
+        },
+        {
+            "symbol": "AES",
+            "canonical_name": "AES Corp"
+        },
+        {
+            "symbol": "AFL",
+            "canonical_name": "AFLAC Inc"
+        },
+        {
+            "symbol": "A",
+            "canonical_name": "Agilent Technologies Inc"
+        },
+        {
+            "symbol": "APD",
+            "canonical_name": "Air Products & Chemicals Inc"
+        },
+        {
+            "symbol": "AKAM",
+            "canonical_name": "Akamai Technologies Inc"
+        },
+        {
+            "symbol": "ALK",
+            "canonical_name": "Alaska Air Group Inc"
+        },
+        {
+            "symbol": "ALB",
+            "canonical_name": "Albemarle Corp"
+        },
+        {
+            "symbol": "ARE",
+            "canonical_name": "Alexandria Real Estate Equities"
+        },
+        {
+            "symbol": "ALXN",
+            "canonical_name": "Alexion Pharmaceuticals"
+        },
+        {
+            "symbol": "ALGN",
+            "canonical_name": "Align Technology"
+        },
+        {
+            "symbol": "ALLE",
+            "canonical_name": "Allegion"
+        },
+        {
+            "symbol": "LNT",
+            "canonical_name": "Alliant Energy Corp"
+        },
+        {
+            "symbol": "ALL",
+            "canonical_name": "Allstate Corp"
+        },
+        {
+            "symbol": "GOOGL",
+            "canonical_name": "Alphabet Inc. (Class A)"
+        },
+        {
+            "symbol": "GOOG",
+            "canonical_name": "Alphabet Inc. (Class C)"
+        },
+        {
+            "symbol": "MO",
+            "canonical_name": "Altria Group Inc"
+        },
+        {
+            "symbol": "AMZN",
+            "canonical_name": "Amazon.com Inc."
+        },
+        {
+            "symbol": "AMCR",
+            "canonical_name": "Amcor plc"
+        },
+        {
+            "symbol": "AEE",
+            "canonical_name": "Ameren Corp"
+        },
+        {
+            "symbol": "AAL",
+            "canonical_name": "American Airlines Group"
+        },
+        {
+            "symbol": "AEP",
+            "canonical_name": "American Electric Power"
+        },
+        {
+            "symbol": "AXP",
+            "canonical_name": "American Express Co"
+        },
+        {
+            "symbol": "AIG",
+            "canonical_name": "American International Group"
+        },
+        {
+            "symbol": "AMT",
+            "canonical_name": "American Tower Corp."
+        },
+        {
+            "symbol": "AWK",
+            "canonical_name": "American Water Works Company Inc"
+        },
+        {
+            "symbol": "AMP",
+            "canonical_name": "Ameriprise Financial"
+        },
+        {
+            "symbol": "ABC",
+            "canonical_name": "AmerisourceBergen Corp"
+        },
+        {
+            "symbol": "AME",
+            "canonical_name": "AMETEK Inc."
+        },
+        {
+            "symbol": "AMGN",
+            "canonical_name": "Amgen Inc."
+        },
+        {
+            "symbol": "APH",
+            "canonical_name": "Amphenol Corp"
+        },
+        {
+            "symbol": "ADI",
+            "canonical_name": "Analog Devices Inc."
+        },
+        {
+            "symbol": "ANSS",
+            "canonical_name": "ANSYS"
+        },
+        {
+            "symbol": "ANTM",
+            "canonical_name": "Anthem"
+        },
+        {
+            "symbol": "AON",
+            "canonical_name": "Aon plc"
+        },
+        {
+            "symbol": "APA",
+            "canonical_name": "Apache Corporation"
+        },
+        {
+            "symbol": "AIV",
+            "canonical_name": "Apartment Investment & Management"
+        },
+        {
+            "symbol": "AAPL",
+            "canonical_name": "Apple Inc."
+        },
+        {
+            "symbol": "AMAT",
+            "canonical_name": "Applied Materials Inc."
+        },
+        {
+            "symbol": "APTV",
+            "canonical_name": "Aptiv PLC"
+        },
+        {
+            "symbol": "ADM",
+            "canonical_name": "Archer-Daniels-Midland Co"
+        },
+        {
+            "symbol": "ANET",
+            "canonical_name": "Arista Networks"
+        },
+        {
+            "symbol": "AJG",
+            "canonical_name": "Arthur J. Gallagher & Co."
+        },
+        {
+            "symbol": "AIZ",
+            "canonical_name": "Assurant"
+        },
+        {
+            "symbol": "T",
+            "canonical_name": "AT&T Inc."
+        },
+        {
+            "symbol": "ATO",
+            "canonical_name": "Atmos Energy"
+        },
+        {
+            "symbol": "ADSK",
+            "canonical_name": "Autodesk Inc."
+        },
+        {
+            "symbol": "ADP",
+            "canonical_name": "Automatic Data Processing"
+        },
+        {
+            "symbol": "AZO",
+            "canonical_name": "AutoZone Inc"
+        },
+        {
+            "symbol": "AVB",
+            "canonical_name": "AvalonBay Communities"
+        },
+        {
+            "symbol": "AVY",
+            "canonical_name": "Avery Dennison Corp"
+        },
+        {
+            "symbol": "BKR",
+            "canonical_name": "Baker Hughes Co"
+        },
+        {
+            "symbol": "BLL",
+            "canonical_name": "Ball Corp"
+        },
+        {
+            "symbol": "BAC",
+            "canonical_name": "Bank of America Corp"
+        },
+        {
+            "symbol": "BAX",
+            "canonical_name": "Baxter International Inc."
+        },
+        {
+            "symbol": "BDX",
+            "canonical_name": "Becton Dickinson"
+        },
+        {
+            "symbol": "BRK.B",
+            "canonical_name": "Berkshire Hathaway"
+        },
+        {
+            "symbol": "BBY",
+            "canonical_name": "Best Buy Co. Inc."
+        },
+        {
+            "symbol": "BIO",
+            "canonical_name": "Bio-Rad Laboratories"
+        },
+        {
+            "symbol": "BIIB",
+            "canonical_name": "Biogen Inc."
+        },
+        {
+            "symbol": "BLK",
+            "canonical_name": "BlackRock"
+        },
+        {
+            "symbol": "BA",
+            "canonical_name": "Boeing Company"
+        },
+        {
+            "symbol": "BKNG",
+            "canonical_name": "Booking Holdings Inc"
+        },
+        {
+            "symbol": "BWA",
+            "canonical_name": "BorgWarner"
+        },
+        {
+            "symbol": "BXP",
+            "canonical_name": "Boston Properties"
+        },
+        {
+            "symbol": "BSX",
+            "canonical_name": "Boston Scientific"
+        },
+        {
+            "symbol": "BMY",
+            "canonical_name": "Bristol-Myers Squibb"
+        },
+        {
+            "symbol": "AVGO",
+            "canonical_name": "Broadcom Inc."
+        },
+        {
+            "symbol": "BR",
+            "canonical_name": "Broadridge Financial Solutions"
+        },
+        {
+            "symbol": "BF.B",
+            "canonical_name": "Brown-Forman Corp."
+        },
+        {
+            "symbol": "CHRW",
+            "canonical_name": "C. H. Robinson Worldwide"
+        },
+        {
+            "symbol": "COG",
+            "canonical_name": "Cabot Oil & Gas"
+        },
+        {
+            "symbol": "CDNS",
+            "canonical_name": "Cadence Design Systems"
+        },
+        {
+            "symbol": "CPB",
+            "canonical_name": "Campbell Soup"
+        },
+        {
+            "symbol": "COF",
+            "canonical_name": "Capital One Financial"
+        },
+        {
+            "symbol": "CAH",
+            "canonical_name": "Cardinal Health Inc."
+        },
+        {
+            "symbol": "KMX",
+            "canonical_name": "Carmax Inc"
+        },
+        {
+            "symbol": "CCL",
+            "canonical_name": "Carnival Corp."
+        },
+        {
+            "symbol": "CARR",
+            "canonical_name": "Carrier Global"
+        },
+        {
+            "symbol": "CAT",
+            "canonical_name": "Caterpillar Inc."
+        },
+        {
+            "symbol": "CBOE",
+            "canonical_name": "Cboe Global Markets"
+        },
+        {
+            "symbol": "CBRE",
+            "canonical_name": "CBRE Group"
+        },
+        {
+            "symbol": "CDW",
+            "canonical_name": "CDW"
+        },
+        {
+            "symbol": "CE",
+            "canonical_name": "Celanese"
+        },
+        {
+            "symbol": "CNC",
+            "canonical_name": "Centene Corporation"
+        },
+        {
+            "symbol": "CNP",
+            "canonical_name": "CenterPoint Energy"
+        },
+        {
+            "symbol": "CTL",
+            "canonical_name": "CenturyLink Inc"
+        },
+        {
+            "symbol": "CERN",
+            "canonical_name": "Cerner"
+        },
+        {
+            "symbol": "CF",
+            "canonical_name": "CF Industries Holdings Inc"
+        },
+        {
+            "symbol": "SCHW",
+            "canonical_name": "Charles Schwab Corporation"
+        },
+        {
+            "symbol": "CHTR",
+            "canonical_name": "Charter Communications"
+        },
+        {
+            "symbol": "CVX",
+            "canonical_name": "Chevron Corp."
+        },
+        {
+            "symbol": "CMG",
+            "canonical_name": "Chipotle Mexican Grill"
+        },
+        {
+            "symbol": "CB",
+            "canonical_name": "Chubb Limited"
+        },
+        {
+            "symbol": "CHD",
+            "canonical_name": "Church & Dwight"
+        },
+        {
+            "symbol": "CI",
+            "canonical_name": "CIGNA Corp."
+        },
+        {
+            "symbol": "CINF",
+            "canonical_name": "Cincinnati Financial"
+        },
+        {
+            "symbol": "CTAS",
+            "canonical_name": "Cintas Corporation"
+        },
+        {
+            "symbol": "CSCO",
+            "canonical_name": "Cisco Systems"
+        },
+        {
+            "symbol": "C",
+            "canonical_name": "Citigroup Inc."
+        },
+        {
+            "symbol": "CFG",
+            "canonical_name": "Citizens Financial Group"
+        },
+        {
+            "symbol": "CTXS",
+            "canonical_name": "Citrix Systems"
+        },
+        {
+            "symbol": "CME",
+            "canonical_name": "CME Group Inc."
+        },
+        {
+            "symbol": "CMS",
+            "canonical_name": "CMS Energy"
+        },
+        {
+            "symbol": "KO",
+            "canonical_name": "Coca-Cola Company"
+        },
+        {
+            "symbol": "CTSH",
+            "canonical_name": "Cognizant Technology Solutions"
+        },
+        {
+            "symbol": "CL",
+            "canonical_name": "Colgate-Palmolive"
+        },
+        {
+            "symbol": "CMCSA",
+            "canonical_name": "Comcast Corp."
+        },
+        {
+            "symbol": "CMA",
+            "canonical_name": "Comerica Inc."
+        },
+        {
+            "symbol": "CAG",
+            "canonical_name": "Conagra Brands"
+        },
+        {
+            "symbol": "CXO",
+            "canonical_name": "Concho Resources"
+        },
+        {
+            "symbol": "COP",
+            "canonical_name": "ConocoPhillips"
+        },
+        {
+            "symbol": "ED",
+            "canonical_name": "Consolidated Edison"
+        },
+        {
+            "symbol": "STZ",
+            "canonical_name": "Constellation Brands"
+        },
+        {
+            "symbol": "CPRT",
+            "canonical_name": "Copart Inc"
+        },
+        {
+            "symbol": "GLW",
+            "canonical_name": "Corning Inc."
+        },
+        {
+            "symbol": "CTVA",
+            "canonical_name": "Corteva"
+        },
+        {
+            "symbol": "COST",
+            "canonical_name": "Costco Wholesale Corp."
+        },
+        {
+            "symbol": "COTY",
+            "canonical_name": "Coty Inc"
+        },
+        {
+            "symbol": "CCI",
+            "canonical_name": "Crown Castle International Corp."
+        },
+        {
+            "symbol": "CSX",
+            "canonical_name": "CSX Corp."
+        },
+        {
+            "symbol": "CMI",
+            "canonical_name": "Cummins Inc."
+        },
+        {
+            "symbol": "CVS",
+            "canonical_name": "CVS Health"
+        },
+        {
+            "symbol": "DHI",
+            "canonical_name": "D. R. Horton"
+        },
+        {
+            "symbol": "DHR",
+            "canonical_name": "Danaher Corp."
+        },
+        {
+            "symbol": "DRI",
+            "canonical_name": "Darden Restaurants"
+        },
+        {
+            "symbol": "DVA",
+            "canonical_name": "DaVita Inc."
+        },
+        {
+            "symbol": "DE",
+            "canonical_name": "Deere & Co."
+        },
+        {
+            "symbol": "DAL",
+            "canonical_name": "Delta Air Lines Inc."
+        },
+        {
+            "symbol": "XRAY",
+            "canonical_name": "Dentsply Sirona"
+        },
+        {
+            "symbol": "DVN",
+            "canonical_name": "Devon Energy"
+        },
+        {
+            "symbol": "DXCM",
+            "canonical_name": "DexCom"
+        },
+        {
+            "symbol": "FANG",
+            "canonical_name": "Diamondback Energy"
+        },
+        {
+            "symbol": "DLR",
+            "canonical_name": "Digital Realty Trust Inc"
+        },
+        {
+            "symbol": "DFS",
+            "canonical_name": "Discover Financial Services"
+        },
+        {
+            "symbol": "DISCA",
+            "canonical_name": "Discovery Inc. (Class A)"
+        },
+        {
+            "symbol": "DISCK",
+            "canonical_name": "Discovery Inc. (Class C)"
+        },
+        {
+            "symbol": "DISH",
+            "canonical_name": "Dish Network"
+        },
+        {
+            "symbol": "DG",
+            "canonical_name": "Dollar General"
+        },
+        {
+            "symbol": "DLTR",
+            "canonical_name": "Dollar Tree"
+        },
+        {
+            "symbol": "D",
+            "canonical_name": "Dominion Energy"
+        },
+        {
+            "symbol": "DPZ",
+            "canonical_name": "Domino's Pizza"
+        },
+        {
+            "symbol": "DOV",
+            "canonical_name": "Dover Corporation"
+        },
+        {
+            "symbol": "DOW",
+            "canonical_name": "Dow Inc."
+        },
+        {
+            "symbol": "DTE",
+            "canonical_name": "DTE Energy Co."
+        },
+        {
+            "symbol": "DUK",
+            "canonical_name": "Duke Energy"
+        },
+        {
+            "symbol": "DRE",
+            "canonical_name": "Duke Realty Corp"
+        },
+        {
+            "symbol": "DD",
+            "canonical_name": "DuPont de Nemours Inc"
+        },
+        {
+            "symbol": "DXC",
+            "canonical_name": "DXC Technology"
+        },
+        {
+            "symbol": "ETFC",
+            "canonical_name": "E*Trade"
+        },
+        {
+            "symbol": "EMN",
+            "canonical_name": "Eastman Chemical"
+        },
+        {
+            "symbol": "ETN",
+            "canonical_name": "Eaton Corporation"
+        },
+        {
+            "symbol": "EBAY",
+            "canonical_name": "eBay Inc."
+        },
+        {
+            "symbol": "ECL",
+            "canonical_name": "Ecolab Inc."
+        },
+        {
+            "symbol": "EIX",
+            "canonical_name": "Edison Int'l"
+        },
+        {
+            "symbol": "EW",
+            "canonical_name": "Edwards Lifesciences"
+        },
+        {
+            "symbol": "EA",
+            "canonical_name": "Electronic Arts"
+        },
+        {
+            "symbol": "EMR",
+            "canonical_name": "Emerson Electric Company"
+        },
+        {
+            "symbol": "ETR",
+            "canonical_name": "Entergy Corp."
+        },
+        {
+            "symbol": "EOG",
+            "canonical_name": "EOG Resources"
+        },
+        {
+            "symbol": "EFX",
+            "canonical_name": "Equifax Inc."
+        },
+        {
+            "symbol": "EQIX",
+            "canonical_name": "Equinix"
+        },
+        {
+            "symbol": "EQR",
+            "canonical_name": "Equity Residential"
+        },
+        {
+            "symbol": "ESS",
+            "canonical_name": "Essex Property Trust Inc."
+        },
+        {
+            "symbol": "EL",
+            "canonical_name": "Est\u00e9e Lauder Companies"
+        },
+        {
+            "symbol": "RE",
+            "canonical_name": "Everest Re Group Ltd."
+        },
+        {
+            "symbol": "EVRG",
+            "canonical_name": "Evergy"
+        },
+        {
+            "symbol": "ES",
+            "canonical_name": "Eversource Energy"
+        },
+        {
+            "symbol": "EXC",
+            "canonical_name": "Exelon Corp."
+        },
+        {
+            "symbol": "EXPE",
+            "canonical_name": "Expedia Group"
+        },
+        {
+            "symbol": "EXPD",
+            "canonical_name": "Expeditors"
+        },
+        {
+            "symbol": "EXR",
+            "canonical_name": "Extra Space Storage"
+        },
+        {
+            "symbol": "XOM",
+            "canonical_name": "Exxon Mobil Corp."
+        },
+        {
+            "symbol": "FFIV",
+            "canonical_name": "F5 Networks"
+        },
+        {
+            "symbol": "FB",
+            "canonical_name": "Facebook Inc."
+        },
+        {
+            "symbol": "FAST",
+            "canonical_name": "Fastenal Co"
+        },
+        {
+            "symbol": "FRT",
+            "canonical_name": "Federal Realty Investment Trust"
+        },
+        {
+            "symbol": "FDX",
+            "canonical_name": "FedEx Corporation"
+        },
+        {
+            "symbol": "FIS",
+            "canonical_name": "Fidelity National Information Services"
+        },
+        {
+            "symbol": "FITB",
+            "canonical_name": "Fifth Third Bancorp"
+        },
+        {
+            "symbol": "FRC",
+            "canonical_name": "First Republic Bank"
+        },
+        {
+            "symbol": "FE",
+            "canonical_name": "FirstEnergy Corp"
+        },
+        {
+            "symbol": "FISV",
+            "canonical_name": "Fiserv Inc"
+        },
+        {
+            "symbol": "FLT",
+            "canonical_name": "FleetCor Technologies Inc"
+        },
+        {
+            "symbol": "FLIR",
+            "canonical_name": "FLIR Systems"
+        },
+        {
+            "symbol": "FLS",
+            "canonical_name": "Flowserve Corporation"
+        },
+        {
+            "symbol": "FMC",
+            "canonical_name": "FMC Corporation"
+        },
+        {
+            "symbol": "F",
+            "canonical_name": "Ford Motor Company"
+        },
+        {
+            "symbol": "FTNT",
+            "canonical_name": "Fortinet"
+        },
+        {
+            "symbol": "FTV",
+            "canonical_name": "Fortive Corp"
+        },
+        {
+            "symbol": "FBHS",
+            "canonical_name": "Fortune Brands Home & Security"
+        },
+        {
+            "symbol": "FOXA",
+            "canonical_name": "Fox Corporation (Class A)"
+        },
+        {
+            "symbol": "FOX",
+            "canonical_name": "Fox Corporation (Class B)"
+        },
+        {
+            "symbol": "BEN",
+            "canonical_name": "Franklin Resources"
+        },
+        {
+            "symbol": "FCX",
+            "canonical_name": "Freeport-McMoRan Inc."
+        },
+        {
+            "symbol": "GPS",
+            "canonical_name": "Gap Inc."
+        },
+        {
+            "symbol": "GRMN",
+            "canonical_name": "Garmin Ltd."
+        },
+        {
+            "symbol": "IT",
+            "canonical_name": "Gartner Inc"
+        },
+        {
+            "symbol": "GD",
+            "canonical_name": "General Dynamics"
+        },
+        {
+            "symbol": "GE",
+            "canonical_name": "General Electric"
+        },
+        {
+            "symbol": "GIS",
+            "canonical_name": "General Mills"
+        },
+        {
+            "symbol": "GM",
+            "canonical_name": "General Motors"
+        },
+        {
+            "symbol": "GPC",
+            "canonical_name": "Genuine Parts"
+        },
+        {
+            "symbol": "GILD",
+            "canonical_name": "Gilead Sciences"
+        },
+        {
+            "symbol": "GPN",
+            "canonical_name": "Global Payments Inc."
+        },
+        {
+            "symbol": "GL",
+            "canonical_name": "Globe Life Inc."
+        },
+        {
+            "symbol": "GS",
+            "canonical_name": "Goldman Sachs Group"
+        },
+        {
+            "symbol": "GWW",
+            "canonical_name": "Grainger (W.W.) Inc."
+        },
+        {
+            "symbol": "HRB",
+            "canonical_name": "H&R Block"
+        },
+        {
+            "symbol": "HAL",
+            "canonical_name": "Halliburton Co."
+        },
+        {
+            "symbol": "HBI",
+            "canonical_name": "Hanesbrands Inc"
+        },
+        {
+            "symbol": "HIG",
+            "canonical_name": "Hartford Financial Svc.Gp."
+        },
+        {
+            "symbol": "HAS",
+            "canonical_name": "Hasbro Inc."
+        },
+        {
+            "symbol": "HCA",
+            "canonical_name": "HCA Healthcare"
+        },
+        {
+            "symbol": "PEAK",
+            "canonical_name": "Healthpeak Properties"
+        },
+        {
+            "symbol": "HSIC",
+            "canonical_name": "Henry Schein"
+        },
+        {
+            "symbol": "HES",
+            "canonical_name": "Hess Corporation"
+        },
+        {
+            "symbol": "HPE",
+            "canonical_name": "Hewlett Packard Enterprise"
+        },
+        {
+            "symbol": "HLT",
+            "canonical_name": "Hilton Worldwide Holdings Inc"
+        },
+        {
+            "symbol": "HFC",
+            "canonical_name": "HollyFrontier Corp"
+        },
+        {
+            "symbol": "HOLX",
+            "canonical_name": "Hologic"
+        },
+        {
+            "symbol": "HD",
+            "canonical_name": "Home Depot"
+        },
+        {
+            "symbol": "HON",
+            "canonical_name": "Honeywell Int'l Inc."
+        },
+        {
+            "symbol": "HRL",
+            "canonical_name": "Hormel Foods Corp."
+        },
+        {
+            "symbol": "HST",
+            "canonical_name": "Host Hotels & Resorts"
+        },
+        {
+            "symbol": "HWM",
+            "canonical_name": "Howmet Aerospace"
+        },
+        {
+            "symbol": "HPQ",
+            "canonical_name": "HP Inc."
+        },
+        {
+            "symbol": "HUM",
+            "canonical_name": "Humana Inc."
+        },
+        {
+            "symbol": "HBAN",
+            "canonical_name": "Huntington Bancshares"
+        },
+        {
+            "symbol": "HII",
+            "canonical_name": "Huntington Ingalls Industries"
+        },
+        {
+            "symbol": "IEX",
+            "canonical_name": "IDEX Corporation"
+        },
+        {
+            "symbol": "IDXX",
+            "canonical_name": "IDEXX Laboratories"
+        },
+        {
+            "symbol": "INFO",
+            "canonical_name": "IHS Markit Ltd."
+        },
+        {
+            "symbol": "ITW",
+            "canonical_name": "Illinois Tool Works"
+        },
+        {
+            "symbol": "ILMN",
+            "canonical_name": "Illumina Inc"
+        },
+        {
+            "symbol": "INCY",
+            "canonical_name": "Incyte"
+        },
+        {
+            "symbol": "IR",
+            "canonical_name": "Ingersoll Rand"
+        },
+        {
+            "symbol": "INTC",
+            "canonical_name": "Intel Corp."
+        },
+        {
+            "symbol": "ICE",
+            "canonical_name": "Intercontinental Exchange"
+        },
+        {
+            "symbol": "IBM",
+            "canonical_name": "International Business Machines"
+        },
+        {
+            "symbol": "IFF",
+            "canonical_name": "International Flavors & Fragrances"
+        },
+        {
+            "symbol": "IP",
+            "canonical_name": "International Paper"
+        },
+        {
+            "symbol": "IPG",
+            "canonical_name": "Interpublic Group"
+        },
+        {
+            "symbol": "INTU",
+            "canonical_name": "Intuit Inc."
+        },
+        {
+            "symbol": "ISRG",
+            "canonical_name": "Intuitive Surgical Inc."
+        },
+        {
+            "symbol": "IVZ",
+            "canonical_name": "Invesco Ltd."
+        },
+        {
+            "symbol": "IPGP",
+            "canonical_name": "IPG Photonics Corp."
+        },
+        {
+            "symbol": "IQV",
+            "canonical_name": "IQVIA Holdings Inc."
+        },
+        {
+            "symbol": "IRM",
+            "canonical_name": "Iron Mountain Incorporated"
+        },
+        {
+            "symbol": "JBHT",
+            "canonical_name": "J. B. Hunt Transport Services"
+        },
+        {
+            "symbol": "JKHY",
+            "canonical_name": "Jack Henry & Associates"
+        },
+        {
+            "symbol": "J",
+            "canonical_name": "Jacobs Engineering Group"
+        },
+        {
+            "symbol": "SJM",
+            "canonical_name": "JM Smucker"
+        },
+        {
+            "symbol": "JNJ",
+            "canonical_name": "Johnson & Johnson"
+        },
+        {
+            "symbol": "JCI",
+            "canonical_name": "Johnson Controls International"
+        },
+        {
+            "symbol": "JPM",
+            "canonical_name": "JPMorgan Chase & Co."
+        },
+        {
+            "symbol": "JNPR",
+            "canonical_name": "Juniper Networks"
+        },
+        {
+            "symbol": "KSU",
+            "canonical_name": "Kansas City Southern"
+        },
+        {
+            "symbol": "K",
+            "canonical_name": "Kellogg Co."
+        },
+        {
+            "symbol": "KEY",
+            "canonical_name": "KeyCorp"
+        },
+        {
+            "symbol": "KEYS",
+            "canonical_name": "Keysight Technologies"
+        },
+        {
+            "symbol": "KMB",
+            "canonical_name": "Kimberly-Clark"
+        },
+        {
+            "symbol": "KIM",
+            "canonical_name": "Kimco Realty"
+        },
+        {
+            "symbol": "KMI",
+            "canonical_name": "Kinder Morgan"
+        },
+        {
+            "symbol": "KLAC",
+            "canonical_name": "KLA Corporation"
+        },
+        {
+            "symbol": "KSS",
+            "canonical_name": "Kohl's Corp."
+        },
+        {
+            "symbol": "KHC",
+            "canonical_name": "Kraft Heinz Co"
+        },
+        {
+            "symbol": "KR",
+            "canonical_name": "Kroger Co."
+        },
+        {
+            "symbol": "LB",
+            "canonical_name": "L Brands Inc."
+        },
+        {
+            "symbol": "LHX",
+            "canonical_name": "L3Harris Technologies"
+        },
+        {
+            "symbol": "LH",
+            "canonical_name": "Laboratory Corp. of America Holding"
+        },
+        {
+            "symbol": "LRCX",
+            "canonical_name": "Lam Research"
+        },
+        {
+            "symbol": "LW",
+            "canonical_name": "Lamb Weston Holdings Inc"
+        },
+        {
+            "symbol": "LVS",
+            "canonical_name": "Las Vegas Sands"
+        },
+        {
+            "symbol": "LEG",
+            "canonical_name": "Leggett & Platt"
+        },
+        {
+            "symbol": "LDOS",
+            "canonical_name": "Leidos Holdings"
+        },
+        {
+            "symbol": "LEN",
+            "canonical_name": "Lennar Corp."
+        },
+        {
+            "symbol": "LLY",
+            "canonical_name": "Lilly (Eli) & Co."
+        },
+        {
+            "symbol": "LNC",
+            "canonical_name": "Lincoln National"
+        },
+        {
+            "symbol": "LIN",
+            "canonical_name": "Linde plc"
+        },
+        {
+            "symbol": "LYV",
+            "canonical_name": "Live Nation Entertainment"
+        },
+        {
+            "symbol": "LKQ",
+            "canonical_name": "LKQ Corporation"
+        },
+        {
+            "symbol": "LMT",
+            "canonical_name": "Lockheed Martin Corp."
+        },
+        {
+            "symbol": "L",
+            "canonical_name": "Loews Corp."
+        },
+        {
+            "symbol": "LOW",
+            "canonical_name": "Lowe's Cos."
+        },
+        {
+            "symbol": "LYB",
+            "canonical_name": "LyondellBasell"
+        },
+        {
+            "symbol": "MTB",
+            "canonical_name": "M&T Bank Corp."
+        },
+        {
+            "symbol": "MRO",
+            "canonical_name": "Marathon Oil Corp."
+        },
+        {
+            "symbol": "MPC",
+            "canonical_name": "Marathon Petroleum"
+        },
+        {
+            "symbol": "MKTX",
+            "canonical_name": "MarketAxess"
+        },
+        {
+            "symbol": "MAR",
+            "canonical_name": "Marriott Int'l."
+        },
+        {
+            "symbol": "MMC",
+            "canonical_name": "Marsh & McLennan"
+        },
+        {
+            "symbol": "MLM",
+            "canonical_name": "Martin Marietta Materials"
+        },
+        {
+            "symbol": "MAS",
+            "canonical_name": "Masco Corp."
+        },
+        {
+            "symbol": "MA",
+            "canonical_name": "Mastercard Inc."
+        },
+        {
+            "symbol": "MXIM",
+            "canonical_name": "Maxim Integrated Products Inc"
+        },
+        {
+            "symbol": "MKC",
+            "canonical_name": "McCormick & Co."
+        },
+        {
+            "symbol": "MCD",
+            "canonical_name": "McDonald's Corp."
+        },
+        {
+            "symbol": "MCK",
+            "canonical_name": "McKesson Corp."
+        },
+        {
+            "symbol": "MDT",
+            "canonical_name": "Medtronic plc"
+        },
+        {
+            "symbol": "MRK",
+            "canonical_name": "Merck & Co."
+        },
+        {
+            "symbol": "MET",
+            "canonical_name": "MetLife Inc."
+        },
+        {
+            "symbol": "MTD",
+            "canonical_name": "Mettler Toledo"
+        },
+        {
+            "symbol": "MGM",
+            "canonical_name": "MGM Resorts International"
+        },
+        {
+            "symbol": "MCHP",
+            "canonical_name": "Microchip Technology"
+        },
+        {
+            "symbol": "MU",
+            "canonical_name": "Micron Technology"
+        },
+        {
+            "symbol": "MSFT",
+            "canonical_name": "Microsoft Corp."
+        },
+        {
+            "symbol": "MAA",
+            "canonical_name": "Mid-America Apartments"
+        },
+        {
+            "symbol": "MHK",
+            "canonical_name": "Mohawk Industries"
+        },
+        {
+            "symbol": "TAP",
+            "canonical_name": "Molson Coors Beverage Company"
+        },
+        {
+            "symbol": "MDLZ",
+            "canonical_name": "Mondelez International"
+        },
+        {
+            "symbol": "MNST",
+            "canonical_name": "Monster Beverage"
+        },
+        {
+            "symbol": "MCO",
+            "canonical_name": "Moody's Corp"
+        },
+        {
+            "symbol": "MS",
+            "canonical_name": "Morgan Stanley"
+        },
+        {
+            "symbol": "MSI",
+            "canonical_name": "Motorola Solutions Inc."
+        },
+        {
+            "symbol": "MSCI",
+            "canonical_name": "MSCI Inc"
+        },
+        {
+            "symbol": "MYL",
+            "canonical_name": "Mylan N.V."
+        },
+        {
+            "symbol": "NDAQ",
+            "canonical_name": "Nasdaq Inc."
+        },
+        {
+            "symbol": "NOV",
+            "canonical_name": "National Oilwell Varco Inc."
+        },
+        {
+            "symbol": "NTAP",
+            "canonical_name": "NetApp"
+        },
+        {
+            "symbol": "NFLX",
+            "canonical_name": "Netflix Inc."
+        },
+        {
+            "symbol": "NWL",
+            "canonical_name": "Newell Brands"
+        },
+        {
+            "symbol": "NEM",
+            "canonical_name": "Newmont Corporation"
+        },
+        {
+            "symbol": "NWSA",
+            "canonical_name": "News Corp. Class A"
+        },
+        {
+            "symbol": "NWS",
+            "canonical_name": "News Corp. Class B"
+        },
+        {
+            "symbol": "NEE",
+            "canonical_name": "NextEra Energy"
+        },
+        {
+            "symbol": "NLSN",
+            "canonical_name": "Nielsen Holdings"
+        },
+        {
+            "symbol": "NKE",
+            "canonical_name": "Nike Inc."
+        },
+        {
+            "symbol": "NI",
+            "canonical_name": "NiSource Inc."
+        },
+        {
+            "symbol": "NBL",
+            "canonical_name": "Noble Energy"
+        },
+        {
+            "symbol": "NSC",
+            "canonical_name": "Norfolk Southern Corp."
+        },
+        {
+            "symbol": "NTRS",
+            "canonical_name": "Northern Trust Corp."
+        },
+        {
+            "symbol": "NOC",
+            "canonical_name": "Northrop Grumman"
+        },
+        {
+            "symbol": "NLOK",
+            "canonical_name": "NortonLifeLock"
+        },
+        {
+            "symbol": "NCLH",
+            "canonical_name": "Norwegian Cruise Line Holdings"
+        },
+        {
+            "symbol": "NRG",
+            "canonical_name": "NRG Energy"
+        },
+        {
+            "symbol": "NUE",
+            "canonical_name": "Nucor Corp."
+        },
+        {
+            "symbol": "NVDA",
+            "canonical_name": "Nvidia Corporation"
+        },
+        {
+            "symbol": "NVR",
+            "canonical_name": "NVR Inc."
+        },
+        {
+            "symbol": "ORLY",
+            "canonical_name": "O'Reilly Automotive"
+        },
+        {
+            "symbol": "OXY",
+            "canonical_name": "Occidental Petroleum"
+        },
+        {
+            "symbol": "ODFL",
+            "canonical_name": "Old Dominion Freight Line"
+        },
+        {
+            "symbol": "OMC",
+            "canonical_name": "Omnicom Group"
+        },
+        {
+            "symbol": "OKE",
+            "canonical_name": "ONEOK"
+        },
+        {
+            "symbol": "ORCL",
+            "canonical_name": "Oracle Corp."
+        },
+        {
+            "symbol": "OTIS",
+            "canonical_name": "Otis Worldwide"
+        },
+        {
+            "symbol": "PCAR",
+            "canonical_name": "PACCAR Inc."
+        },
+        {
+            "symbol": "PKG",
+            "canonical_name": "Packaging Corporation of America"
+        },
+        {
+            "symbol": "PH",
+            "canonical_name": "Parker-Hannifin"
+        },
+        {
+            "symbol": "PAYX",
+            "canonical_name": "Paychex Inc."
+        },
+        {
+            "symbol": "PAYC",
+            "canonical_name": "Paycom"
+        },
+        {
+            "symbol": "PYPL",
+            "canonical_name": "PayPal"
+        },
+        {
+            "symbol": "PNR",
+            "canonical_name": "Pentair plc"
+        },
+        {
+            "symbol": "PBCT",
+            "canonical_name": "People's United Financial"
+        },
+        {
+            "symbol": "PEP",
+            "canonical_name": "PepsiCo Inc."
+        },
+        {
+            "symbol": "PKI",
+            "canonical_name": "PerkinElmer"
+        },
+        {
+            "symbol": "PRGO",
+            "canonical_name": "Perrigo"
+        },
+        {
+            "symbol": "PFE",
+            "canonical_name": "Pfizer Inc."
+        },
+        {
+            "symbol": "PM",
+            "canonical_name": "Philip Morris International"
+        },
+        {
+            "symbol": "PSX",
+            "canonical_name": "Phillips 66"
+        },
+        {
+            "symbol": "PNW",
+            "canonical_name": "Pinnacle West Capital"
+        },
+        {
+            "symbol": "PXD",
+            "canonical_name": "Pioneer Natural Resources"
+        },
+        {
+            "symbol": "PNC",
+            "canonical_name": "PNC Financial Services"
+        },
+        {
+            "symbol": "PPG",
+            "canonical_name": "PPG Industries"
+        },
+        {
+            "symbol": "PPL",
+            "canonical_name": "PPL Corp."
+        },
+        {
+            "symbol": "PFG",
+            "canonical_name": "Principal Financial Group"
+        },
+        {
+            "symbol": "PG",
+            "canonical_name": "Procter & Gamble"
+        },
+        {
+            "symbol": "PGR",
+            "canonical_name": "Progressive Corp."
+        },
+        {
+            "symbol": "PLD",
+            "canonical_name": "Prologis"
+        },
+        {
+            "symbol": "PRU",
+            "canonical_name": "Prudential Financial"
+        },
+        {
+            "symbol": "PEG",
+            "canonical_name": "Public Service Enterprise Group (PSEG)"
+        },
+        {
+            "symbol": "PSA",
+            "canonical_name": "Public Storage"
+        },
+        {
+            "symbol": "PHM",
+            "canonical_name": "PulteGroup"
+        },
+        {
+            "symbol": "PVH",
+            "canonical_name": "PVH Corp."
+        },
+        {
+            "symbol": "QRVO",
+            "canonical_name": "Qorvo"
+        },
+        {
+            "symbol": "QCOM",
+            "canonical_name": "QUALCOMM Inc."
+        },
+        {
+            "symbol": "PWR",
+            "canonical_name": "Quanta Services Inc."
+        },
+        {
+            "symbol": "DGX",
+            "canonical_name": "Quest Diagnostics"
+        },
+        {
+            "symbol": "RL",
+            "canonical_name": "Ralph Lauren Corporation"
+        },
+        {
+            "symbol": "RJF",
+            "canonical_name": "Raymond James Financial Inc."
+        },
+        {
+            "symbol": "RTX",
+            "canonical_name": "Raytheon Technologies"
+        },
+        {
+            "symbol": "O",
+            "canonical_name": "Realty Income Corporation"
+        },
+        {
+            "symbol": "REG",
+            "canonical_name": "Regency Centers Corporation"
+        },
+        {
+            "symbol": "REGN",
+            "canonical_name": "Regeneron Pharmaceuticals"
+        },
+        {
+            "symbol": "RF",
+            "canonical_name": "Regions Financial Corp."
+        },
+        {
+            "symbol": "RSG",
+            "canonical_name": "Republic Services Inc"
+        },
+        {
+            "symbol": "RMD",
+            "canonical_name": "ResMed"
+        },
+        {
+            "symbol": "RHI",
+            "canonical_name": "Robert Half International"
+        },
+        {
+            "symbol": "ROK",
+            "canonical_name": "Rockwell Automation Inc."
+        },
+        {
+            "symbol": "ROL",
+            "canonical_name": "Rollins Inc."
+        },
+        {
+            "symbol": "ROP",
+            "canonical_name": "Roper Technologies"
+        },
+        {
+            "symbol": "ROST",
+            "canonical_name": "Ross Stores"
+        },
+        {
+            "symbol": "RCL",
+            "canonical_name": "Royal Caribbean Group"
+        },
+        {
+            "symbol": "SPGI",
+            "canonical_name": "S&P Global Inc."
+        },
+        {
+            "symbol": "CRM",
+            "canonical_name": "Salesforce.com"
+        },
+        {
+            "symbol": "SBAC",
+            "canonical_name": "SBA Communications"
+        },
+        {
+            "symbol": "SLB",
+            "canonical_name": "Schlumberger Ltd."
+        },
+        {
+            "symbol": "STX",
+            "canonical_name": "Seagate Technology"
+        },
+        {
+            "symbol": "SEE",
+            "canonical_name": "Sealed Air"
+        },
+        {
+            "symbol": "SRE",
+            "canonical_name": "Sempra Energy"
+        },
+        {
+            "symbol": "NOW",
+            "canonical_name": "ServiceNow"
+        },
+        {
+            "symbol": "SHW",
+            "canonical_name": "Sherwin-Williams"
+        },
+        {
+            "symbol": "SPG",
+            "canonical_name": "Simon Property Group Inc"
+        },
+        {
+            "symbol": "SWKS",
+            "canonical_name": "Skyworks Solutions"
+        },
+        {
+            "symbol": "SLG",
+            "canonical_name": "SL Green Realty"
+        },
+        {
+            "symbol": "SNA",
+            "canonical_name": "Snap-on"
+        },
+        {
+            "symbol": "SO",
+            "canonical_name": "Southern Company"
+        },
+        {
+            "symbol": "LUV",
+            "canonical_name": "Southwest Airlines"
+        },
+        {
+            "symbol": "SWK",
+            "canonical_name": "Stanley Black & Decker"
+        },
+        {
+            "symbol": "SBUX",
+            "canonical_name": "Starbucks Corp."
+        },
+        {
+            "symbol": "STT",
+            "canonical_name": "State Street Corp."
+        },
+        {
+            "symbol": "STE",
+            "canonical_name": "STERIS plc"
+        },
+        {
+            "symbol": "SYK",
+            "canonical_name": "Stryker Corp."
+        },
+        {
+            "symbol": "SIVB",
+            "canonical_name": "SVB Financial"
+        },
+        {
+            "symbol": "SYF",
+            "canonical_name": "Synchrony Financial"
+        },
+        {
+            "symbol": "SNPS",
+            "canonical_name": "Synopsys Inc."
+        },
+        {
+            "symbol": "SYY",
+            "canonical_name": "Sysco Corp."
+        },
+        {
+            "symbol": "TMUS",
+            "canonical_name": "T-Mobile US"
+        },
+        {
+            "symbol": "TROW",
+            "canonical_name": "T. Rowe Price Group"
+        },
+        {
+            "symbol": "TTWO",
+            "canonical_name": "Take-Two Interactive"
+        },
+        {
+            "symbol": "TPR",
+            "canonical_name": "Tapestry Inc."
+        },
+        {
+            "symbol": "TGT",
+            "canonical_name": "Target Corp."
+        },
+        {
+            "symbol": "TEL",
+            "canonical_name": "TE Connectivity Ltd."
+        },
+        {
+            "symbol": "FTI",
+            "canonical_name": "TechnipFMC"
+        },
+        {
+            "symbol": "TDY",
+            "canonical_name": "Teledyne Technologies"
+        },
+        {
+            "symbol": "TFX",
+            "canonical_name": "Teleflex"
+        },
+        {
+            "symbol": "TXN",
+            "canonical_name": "Texas Instruments"
+        },
+        {
+            "symbol": "TXT",
+            "canonical_name": "Textron Inc."
+        },
+        {
+            "symbol": "BK",
+            "canonical_name": "The Bank of New York Mellon"
+        },
+        {
+            "symbol": "CLX",
+            "canonical_name": "The Clorox Company"
+        },
+        {
+            "symbol": "COO",
+            "canonical_name": "The Cooper Companies"
+        },
+        {
+            "symbol": "HSY",
+            "canonical_name": "The Hershey Company"
+        },
+        {
+            "symbol": "MOS",
+            "canonical_name": "The Mosaic Company"
+        },
+        {
+            "symbol": "TRV",
+            "canonical_name": "The Travelers Companies Inc."
+        },
+        {
+            "symbol": "DIS",
+            "canonical_name": "The Walt Disney Company"
+        },
+        {
+            "symbol": "TMO",
+            "canonical_name": "Thermo Fisher Scientific"
+        },
+        {
+            "symbol": "TIF",
+            "canonical_name": "Tiffany & Co."
+        },
+        {
+            "symbol": "TJX",
+            "canonical_name": "TJX Companies Inc."
+        },
+        {
+            "symbol": "TSCO",
+            "canonical_name": "Tractor Supply Company"
+        },
+        {
+            "symbol": "TT",
+            "canonical_name": "Trane Technologies plc"
+        },
+        {
+            "symbol": "TDG",
+            "canonical_name": "TransDigm Group"
+        },
+        {
+            "symbol": "TFC",
+            "canonical_name": "Truist Financial"
+        },
+        {
+            "symbol": "TWTR",
+            "canonical_name": "Twitter Inc."
+        },
+        {
+            "symbol": "TYL",
+            "canonical_name": "Tyler Technologies"
+        },
+        {
+            "symbol": "TSN",
+            "canonical_name": "Tyson Foods"
+        },
+        {
+            "symbol": "USB",
+            "canonical_name": "U.S. Bancorp"
+        },
+        {
+            "symbol": "UDR",
+            "canonical_name": "UDR Inc."
+        },
+        {
+            "symbol": "ULTA",
+            "canonical_name": "Ulta Beauty"
+        },
+        {
+            "symbol": "UAA",
+            "canonical_name": "Under Armour (Class A)"
+        },
+        {
+            "symbol": "UA",
+            "canonical_name": "Under Armour (Class C)"
+        },
+        {
+            "symbol": "UNP",
+            "canonical_name": "Union Pacific Corp"
+        },
+        {
+            "symbol": "UAL",
+            "canonical_name": "United Airlines Holdings"
+        },
+        {
+            "symbol": "UNH",
+            "canonical_name": "United Health Group Inc."
+        },
+        {
+            "symbol": "UPS",
+            "canonical_name": "United Parcel Service"
+        },
+        {
+            "symbol": "URI",
+            "canonical_name": "United Rentals Inc."
+        },
+        {
+            "symbol": "UHS",
+            "canonical_name": "Universal Health Services"
+        },
+        {
+            "symbol": "UNM",
+            "canonical_name": "Unum Group"
+        },
+        {
+            "symbol": "VLO",
+            "canonical_name": "Valero Energy"
+        },
+        {
+            "symbol": "VAR",
+            "canonical_name": "Varian Medical Systems"
+        },
+        {
+            "symbol": "VTR",
+            "canonical_name": "Ventas Inc"
+        },
+        {
+            "symbol": "VRSN",
+            "canonical_name": "Verisign Inc."
+        },
+        {
+            "symbol": "VRSK",
+            "canonical_name": "Verisk Analytics"
+        },
+        {
+            "symbol": "VZ",
+            "canonical_name": "Verizon Communications"
+        },
+        {
+            "symbol": "VRTX",
+            "canonical_name": "Vertex Pharmaceuticals Inc"
+        },
+        {
+            "symbol": "VFC",
+            "canonical_name": "VF Corporation"
+        },
+        {
+            "symbol": "VIAC",
+            "canonical_name": "ViacomCBS"
+        },
+        {
+            "symbol": "V",
+            "canonical_name": "Visa Inc."
+        },
+        {
+            "symbol": "VNO",
+            "canonical_name": "Vornado Realty Trust"
+        },
+        {
+            "symbol": "VMC",
+            "canonical_name": "Vulcan Materials"
+        },
+        {
+            "symbol": "WRB",
+            "canonical_name": "W. R. Berkley Corporation"
+        },
+        {
+            "symbol": "WAB",
+            "canonical_name": "Wabtec Corporation"
+        },
+        {
+            "symbol": "WBA",
+            "canonical_name": "Walgreens Boots Alliance"
+        },
+        {
+            "symbol": "WMT",
+            "canonical_name": "Walmart"
+        },
+        {
+            "symbol": "WM",
+            "canonical_name": "Waste Management Inc."
+        },
+        {
+            "symbol": "WAT",
+            "canonical_name": "Waters Corporation"
+        },
+        {
+            "symbol": "WEC",
+            "canonical_name": "WEC Energy Group"
+        },
+        {
+            "symbol": "WFC",
+            "canonical_name": "Wells Fargo"
+        },
+        {
+            "symbol": "WELL",
+            "canonical_name": "Welltower Inc."
+        },
+        {
+            "symbol": "WST",
+            "canonical_name": "West Pharmaceutical Services"
+        },
+        {
+            "symbol": "WDC",
+            "canonical_name": "Western Digital"
+        },
+        {
+            "symbol": "WU",
+            "canonical_name": "Western Union Co"
+        },
+        {
+            "symbol": "WRK",
+            "canonical_name": "WestRock"
+        },
+        {
+            "symbol": "WY",
+            "canonical_name": "Weyerhaeuser"
+        },
+        {
+            "symbol": "WHR",
+            "canonical_name": "Whirlpool Corp."
+        },
+        {
+            "symbol": "WMB",
+            "canonical_name": "Williams Companies"
+        },
+        {
+            "symbol": "WLTW",
+            "canonical_name": "Willis Towers Watson"
+        },
+        {
+            "symbol": "WYNN",
+            "canonical_name": "Wynn Resorts Ltd"
+        },
+        {
+            "symbol": "XEL",
+            "canonical_name": "Xcel Energy Inc"
+        },
+        {
+            "symbol": "XRX",
+            "canonical_name": "Xerox"
+        },
+        {
+            "symbol": "XLNX",
+            "canonical_name": "Xilinx"
+        },
+        {
+            "symbol": "XYL",
+            "canonical_name": "Xylem Inc."
+        },
+        {
+            "symbol": "YUM",
+            "canonical_name": "Yum! Brands Inc"
+        },
+        {
+            "symbol": "ZBRA",
+            "canonical_name": "Zebra Technologies"
+        },
+        {
+            "symbol": "ZBH",
+            "canonical_name": "Zimmer Biomet Holdings"
+        },
+        {
+            "symbol": "ZION",
+            "canonical_name": "Zions Bancorp"
+        },
+        {
+            "symbol": "ZTS",
+            "canonical_name": "Zoetis"
+        }
+    ]
+}

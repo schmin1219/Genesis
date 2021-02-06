@@ -1,0 +1,192 @@
+{
+	"instruments": [
+		{
+			"symbol": "005930.KS",
+			"canonical_name": "SamsungElec"			 
+		}
+	   ,{
+		 	"symbol": "000660.KS",
+			"canonical_name": "SKHynix"			 
+		}
+	   ,{
+		 	"symbol": "066570.KS",
+			"canonical_name": "LGElectronics"			 
+		} 
+	   ,{
+		 	"symbol": "005380.KS",
+			"canonical_name": "HyundaiMotorCompany"			 
+		}
+	   ,{
+		 	"symbol": "105560.KS",
+			"canonical_name": "KBFinancialGroup"			 
+		}
+	   ,{
+		 	"symbol": "003490.KS",
+			"canonical_name": "KoreanAir"			 
+		}
+       ,{
+		 	"symbol": "035420.KS",
+			"canonical_name": "NAVER"			 
+		}
+	   ,{
+		 	"symbol": "035720.KS",
+			"canonical_name": "Kakao"			 
+		}
+	   ,{
+		 	"symbol": "051910.KS",
+			"canonical_name": "LGChem"			 
+		}
+	   ,{
+		 	"symbol": "207940.KS",
+			"canonical_name": "SamsungBiologics"			 
+		}		
+	   ,{
+		 	"symbol": "068270.KS",
+			"canonical_name": "Celltrion"			 
+		}		
+	   ,{
+		 	"symbol": "006400.KS",
+			"canonical_name": "SamsungSDI"			 
+		}		
+	   ,{
+		 	"symbol": "000270.KS",
+			"canonical_name": "KiaMotors"			 
+		}
+	  ,{
+		 	"symbol": "006400.KS",
+			"canonical_name": "SamsungSDI"			 
+		}		
+	  ,{
+		 	"symbol": "000270.KS",
+			"canonical_name": "KiaMotors"			 
+		}	
+	  ,{
+		 	"symbol": "012330.KS",
+			"canonical_name": "HyundaiMobis"			 
+		}
+	  ,{
+		 	"symbol": "005490.KS",
+			"canonical_name": "Posco"			 
+		}
+	  ,{
+		 	"symbol": "017670.KS",
+			"canonical_name": "SKTelecom"			 
+		}
+	  ,{
+		 	"symbol": "036570.KS",
+			"canonical_name": "NCSoft"			 
+		}
+	  ,{
+		 	"symbol": "105560.KS",
+			"canonical_name": "KBFinancial"			 
+		}
+	  ,{
+		 	"symbol": "015760.KS",
+			"canonical_name": "KoreaElectronic"			 
+		}
+	  ,{
+		 	"symbol": "055550.KS",
+			"canonical_name": "ShinhanFinancial"			 
+		}
+	  ,{
+		 	"symbol": "096770.KS",
+			"canonical_name": "SKInnovation"			 
+		}
+	  ,{
+		 	"symbol": "326030.KS",
+			"canonical_name": "SKBio"			 
+		}
+	  ,{
+		 	"symbol": "090430.KS",
+			"canonical_name": "Amorepacific"			 
+		}
+	],
+	
+	"smin0": [
+		{
+			"symbol": "005930.KS",
+			"canonical_name": "SamsungElec"			 
+		}
+	   ,{
+		 	"symbol": "000660.KS",
+			"canonical_name": "SKHynix"			 
+		}
+	   ,{
+		 	"symbol": "066570.KS",
+			"canonical_name": "LGElectronics"			 
+		} 
+	   ,{
+		 	"symbol": "005380.KS",
+			"canonical_name": "HyundaiMotorCompany"			 
+		}
+	   ,{
+		 	"symbol": "105560.KS",
+			"canonical_name": "KBFinancialGroup"			 
+		}
+       ,{
+		 	"symbol": "035420.KS",
+			"canonical_name": "NAVER"			 
+		}
+	   ,{
+		 	"symbol": "035720.KS",
+			"canonical_name": "Kakao"			 
+		}
+	   ,{
+		 	"symbol": "051910.KS",
+			"canonical_name": "LGChem"			 
+		}
+	   ,{
+		 	"symbol": "207940.KS",
+			"canonical_name": "SamsungBiologics"			 
+		}		
+	   ,{
+		 	"symbol": "068270.KS",
+			"canonical_name": "Celltrion"			 
+		}		
+	   ,{
+		 	"symbol": "006400.KS",
+			"canonical_name": "SamsungSDI"			 
+		}		
+	   ,{
+		 	"symbol": "000270.KS",
+			"canonical_name": "KiaMotors"			 
+		}
+	  ,{
+		 	"symbol": "006400.KS",
+			"canonical_name": "SamsungSDI"			 
+		}		
+	  ,{
+		 	"symbol": "000270.KS",
+			"canonical_name": "KiaMotors"			 
+		}	
+	  ,{
+		 	"symbol": "012330.KS",
+			"canonical_name": "HyundaiMobis"			 
+		}
+	  ,{
+		 	"symbol": "005490.KS",
+			"canonical_name": "Posco"			 
+		}
+	  ,{
+		 	"symbol": "017670.KS",
+			"canonical_name": "SKTelecom"			 
+		}
+	  ,{
+		 	"symbol": "036570.KS",
+			"canonical_name": "NCSoft"			 
+		}
+	  ,{
+		 	"symbol": "105560.KS",
+			"canonical_name": "KBFinancial"			 
+		}
+	  ,{
+		 	"symbol": "096770.KS",
+			"canonical_name": "SKInnovation"			 
+		}
+	  ,{
+		 	"symbol": "326030.KS",
+			"canonical_name": "SKBio"			 
+		}
+	] 
+}
+
