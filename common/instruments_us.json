@@ -1,0 +1,36 @@
+{
+    "instruments": [
+        {
+            "symbol": "AAPL",
+            "exchange": "SMART",
+            "secType": "STK",
+            "currency": "USD"
+        }
+    ],
+    "USStock": {
+        "instruments": [
+            {
+                "symbol": "A",
+                "exchange": "SMART",
+                "secType": "STK",
+                "currency": "USD",
+                "stgy_cfg": {
+                    "bison_coeff": [],
+                    "salmon": {
+                        "s_edge": 1,
+                        "f_edge": 1,
+                        "c_edge": 1,
+                        "b_edge": 1
+                    },
+                    "max_pos": 1000,
+                    "max_loss": 10000,
+                    "order_size": 50,
+                    "pos": 0
+                }
+            }
+        ],
+        "begin_time": "09:35:00",
+        "workout_time": "15:50:00",
+        "end_time": "15:55:00"
+    }
+}

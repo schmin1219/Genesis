@@ -8,6 +8,7 @@ from common.commondir import CommonDir
 from common.InstMaster import InstMaster
 from optimizer.Optimizer import Optimizer
 
+
 ##################################################
 def run_simOptimizer(data_dir,output_dir,tradingPeriod,symbol,sim_type,begin_date, end_date, obj_func, json_, intra_trading):
     if os.path.exists(output_dir)==False:
@@ -24,6 +25,11 @@ def run_simOptimizer(data_dir,output_dir,tradingPeriod,symbol,sim_type,begin_dat
                 
 #### ========================================================================
 def main():
+    fp = os.path.join(CommonDir.sampled_us_dir, 'AUSUSD.csv')
+    df = pd.read_csv(fp)
+    print (df)
+    
+def main2():
     parser = argparse.ArgumentParser()
     parser.add_argument('-j', '--train_config', help='training config json', default='/home/smin/eclipse-workspace/IntraStrategy/models/US_model.json')
     args = parser.parse_args()
